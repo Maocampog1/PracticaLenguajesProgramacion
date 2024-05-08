@@ -1,0 +1,3 @@
+C:/Users/maria/OneDrive/Escritorio/Lenguajes de Programacion/listas/cmake-build-listas/CMakeFiles/listicas.dir
+C:/Users/maria/OneDrive/Escritorio/Lenguajes de Programacion/listas/cmake-build-listas/CMakeFiles/edit_cache.dir
+C:/Users/maria/OneDrive/Escritorio/Lenguajes de Programacion/listas/cmake-build-listas/CMakeFiles/rebuild_cache.dir
